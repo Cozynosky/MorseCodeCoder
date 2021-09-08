@@ -12,7 +12,7 @@ It's a small console program which generates .txt or .mp3 file with your Morse c
 
 * Windows 10 (Linux not tested yet)
 * Python 3.9
-* Pydub
+* Pydub v0.25.1
 
 ### Executing program
 
